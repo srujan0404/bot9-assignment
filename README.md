@@ -19,5 +19,5 @@ The system listens for specific triggers within the chat interface. Upon detecti
 
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
-3. Install the required dependencies using your preferred package manager: npm install
-4. Start the application: npm start
+3. Install the required dependencies using your preferred package manager: `npm install`
+4. Start the application: `npm start`
